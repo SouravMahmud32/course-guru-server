@@ -1,0 +1,90 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Python for Everybody Specialization",
+        "duration": "7 days",
+        "price": 100,
+        "image_url": "https://media.istockphoto.com/photos/freelance-programmer-working-on-computer-from-home-picture-id1089489394?k=20&m=1089489394&s=612x612&w=0&h=UxuAQdJjQas2s23g0ucBohfVDVQuMrGTmIUBrOfx08k=",
+        "details": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you’ll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6ag",
+        "category_id": "02",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Learn SQL Basics for Data Science Specialization",
+        "duration": "5 days",
+        "price": 89,
+        "image_url": "https://www.eu-startups.com/wp-content/uploads/2020/06/woman-coding.jpg",
+        "details": "This Specialization is intended for a learner with no previous coding experience seeking to develop SQL query fluency. Through four progressively more difficult SQL projects with data science applications, you will cover topics such as SQL basics, data wrangling, SQL analysis, AB testing, distributed computing using Apache Spark, Delta Lake and more. These topics will prepare you to apply SQL creatively to analyze and explore data; demonstrate efficiency in writing queries; create data analysis datasets; conduct feature engineering, use SQL with other data analysis and machine learning toolsets; and use SQL with unstructured data sets."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
+        "category_id": "03",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Ethical Hacking Essentials (EHE)",
+        "duration": "1-3 months",
+        "price": 199,
+        "image_url": "https://onlinedegrees.sandiego.edu/wp-content/uploads/2020/01/USD-Cyber-Cybersecurity-vs-Information-Security-vs-Network-Security-_2.jpeg",
+        "details": "Ethical Hacking Essentials is an introductory cybersecurity course that covers ethical hacking and penetration testing fundamentals and prepares learners for a career in cybersecurity. This course will introduce learners to computer and network security concepts such as threats and vulnerabilities, password cracking, web application attacks, IoT and OT attacks, cloud computing, pentesting fundamentals, and more."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
+        "category_id": "04",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Introduction to Java",
+        "duration": "15 days",
+        "price": 49,
+        "image_url": "https://rosamarfil.es/tutoriales/wp-content/uploads/2019/08/java-logo-png.png",
+        "details": "This Course is the first of a series of courses that make up the Core Java Specialization.  The Core Java Specialization, in turn, is part of a series of programming specializations, derived from LearnQuest's private Java Bootcamps, designed to provide the skill set necessary to be hired as an IT developer using Java in many corporate environments."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
+        "category_id": "05",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Introduction to Blockchain Technologies",
+        "duration": "7 days",
+        "price": 100,
+        "image_url": "https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2021/08/04022409/WHAT-IS-BLOCKCHAIN.png",
+        "details": "In this first course of the specialization, we will discuss the limitations of the Internet for business and economic activity, and explain how blockchain technology represents the way forward. After completing this course, you will be able to explain what blockchain is, how it works, and why it is revolutionary. You will learn key concepts such as mining, hashing, proof-of-work, public key cryptography, and the double-spend problem. You’ll be able to describe seven design principles for blockchain technology, and the challenges facing the people developing it. You’ll also meet the players in the blockchain ecosystem, and consider your own role in stewarding the blockchain revolution."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "06",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Full-Stack Web Development with React Specialization",
+        "duration": "3 months",
+        "price": 55,
+        "image_url": "https://smsh-862737-juc1ugur1qwqqqo4.stackpathdns.com/2569356/wp-content/uploads/2020/11/AdobeStock_241083104-1400x934.jpg?size=1400x934&lossy=1&strip=1&webp=1",
+        "details": "Learners will work on hands-on exercises, culminating in development of a full-fledged application at the end of each course. Each course also includes a mini-Capstone Project as part of the Honors Track where you’ll apply your skills to build a fully functional project."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6ac",
+        "category_id": "07",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "Initiation à la programmation (en C++)",
+        "duration": "9 days",
+        "price": 99,
+        "image_url": "https://cafedev.vn/wp-content/uploads/2020/11/cafedev_khoahoc_C.png",
+        "details": "his specialization develops strong programming fundamentals for learners who want to solve complex problems by writing computer programs. Through four courses, you will learn to develop algorithms in a systematic way and read and write the C code to implement them. This will prepare you to pursue a career in software development or other computational fields."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6ab",
+        "category_id": "08",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "total_view": 488,
+        "title": "HTML, CSS, and Javascript for Web Developers",
+        "duration": "9 days",
+        "price": 10,
+        "image_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/83/e258e0532611e5a5072321239ff4d4/jhep-coursera-course4.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+        "details": "Do you realize that the only functionality of a web application that the user directly interacts with is through the web page? Implement it poorly and, to the user, the server-side becomes irrelevant! Today’s user expects a lot out of the web page: it has to load fast, expose the desired service, and be comfortable to view on all devices: from a desktop computers to tablets and mobile phones."
+    }
+]
